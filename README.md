@@ -9,5 +9,7 @@
 - 📫 How to reach me: 
 - [Twitter @YugendraKesine](https://twitter.com/YugendraKesine)
 - [Instagram @it_is_me_yugi](https://www.instagram.com/it_is_me_yugi/)
-
 - ⚡ Fun fact: ... Having no fun - Fun😄
+
+
+![Yugendra Kesineni'ssmile Github Stats](https://github-readme-stats.vercel.app/api?username=YugendraKesineni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
